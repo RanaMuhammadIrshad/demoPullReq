@@ -1,5 +1,5 @@
 
-# demoPullReqConflict
+# some random text
 
 add some text
 
