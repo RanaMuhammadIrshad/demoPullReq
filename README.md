@@ -1,5 +1,5 @@
 
-# demoPullReqConflict
+# How to solve conflict
 
 add some text
 
